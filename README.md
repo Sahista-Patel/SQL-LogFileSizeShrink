@@ -22,11 +22,11 @@ Free Space (%) - Free Space of the log file in Ratio (%)<br>
 Create profile and script in SSMS then schedule it as per requirement.
 
 # Input
-@profile_name = 'LogFileSizeAlert', -- Replace with your SQL Database Mail Profile 
-@body = @body,
-@body_format ='HTML',
-@recipients = 'example@outlook.com', -- Replace with your email address
-@subject = 'Log File Beyond Threshold' ;
+@profile_name = 'LogFileSizeAlert', -- Replace with your SQL Database Mail Profile<br>
+@body = @body,<br>
+@body_format ='HTML',<br>
+@recipients = 'example@outlook.com', -- Replace with your email address<br>
+@subject = 'Log File Beyond Threshold' ;<br>
 
 # Example O/P
 ![alt text](https://github.com/Sahista-Patel/SQL-LogFileSizeShrink/blob/Powershell/logfilesize.PNG)
