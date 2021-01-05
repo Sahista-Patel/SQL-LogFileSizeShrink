@@ -2,7 +2,7 @@
 -- .SYNOPSIS
 --     This script will check the Log file size. If free file space is less than 20% that mean byond threshold and qualifies for the alert.
 --     It sends E-mail by combining all these alerts (example mentioned in o/p) then it will wait For 10 Minutes.
---     After 10 minutes it will take backup first the shrink the log file without manual intervention.
+--     After 10 minutes it will take backup first the shrink the log file without manual intervention. Cool!
 -- .DESCRIPTION
 --     Alert serial number, Server Name, Database Name,  %Free File Space - Free log file space.
 --     It will send an email, if scheduled then it is monitoring as well as log file size auto handling technique.
