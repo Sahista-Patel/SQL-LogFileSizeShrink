@@ -41,4 +41,4 @@ Copyright 2020 Harsh & Sahista
 We love contributions, please comment to contribute!
 
 # Code of Conduct
-Contributors have adopted the Covenant as its Code of Conduct. Please understand copyright and what actions will not be abided.
+Contributors have adopted the Covenant as its Code of Conduct.. Please understand copyright and what actions will not be abided.
