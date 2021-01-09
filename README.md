@@ -29,7 +29,7 @@ Create profile and script in SSMS then schedule it as per requirement.
 @subject = 'Log File Beyond Threshold' ;<br>
 
 # Example O/P
-![alt text](https://github.com/Sahista-Patel/SQL-LogFileSizeShrink/blob/Powershell/logfilesize.PNG)
+![alt text](https://github.com/Sahista-Patel/SQL-LogFileSizeShrink/blob/SQL/logfilesize.PNG)
 
 
 # License
